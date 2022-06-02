@@ -10,3 +10,8 @@
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=#F05032)
 ![Angular](https://img.shields.io/badge/-Angular-090909?style=for-the-badge&logo=Angular&logoColor=crimson)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap&logoColor=#7952B3)
+
+### Other
+
+[![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/alexandr-titov-78ab07228/)
+[![Codewars](https://img.shields.io/badge/-Codewars-090909?style=for-the-badge&logo=Codewars&logoColor=maroon)](https://www.codewars.com/users/tit-alex)
